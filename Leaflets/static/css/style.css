@@ -8,3 +8,16 @@ body,
 html {
   height: 100%;
 }
+
+/* Add some styling for the legend */
+.info.legend {
+  background-color: #fff;
+  padding: 10px;
+  border: 1px solid #ccc;
+  font-size: 14px;
+}
+
+.info.legend strong {
+  display: block;
+  margin-bottom: 10px;
+}
